@@ -1,1 +1,1 @@
-# messenger-YGM
+# YGM messenger
